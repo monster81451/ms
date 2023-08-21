@@ -1,0 +1,153 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url("../image/snow1.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:left top;
+    background-size:cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.bgcolor{
+    height: 100%;
+    background-color: rgba(255,255,255,0.3);
+}
+.web-top1menu{
+    width: 1280px;
+    display: flex;
+    align-items: center;
+}
+.menu-choose{
+    display: flex;
+    width: 40%;
+    height: 100px;
+    justify-content: end;
+}
+.menu-choose1{
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.menu-choose1 a{
+    color: black;
+    text-decoration: none;
+}
+.menu-choose1 a:hover{
+    color: azure;
+}
+.web-markimg{ /*長方形圖片轉圓形*/
+    display:inline-block;
+    position:relative;
+    width:100px;
+    height:100px;
+    overflow:hidden;
+    border-radius:50%;
+}
+.web-markimg img{ /*長方形圖片轉圓形*/
+    width:auto;
+    height:100%;
+    margin-left:-30%;
+}
+.web-mark{
+    width: 30%;
+}
+.menu-space{
+    width: 30%;
+}
+.web-top1{
+    background:linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,0.0));
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    left: 0;
+    right: 0;
+}
+.web-top1box{
+    height: 75px;
+}
+.web-toptotal{
+    
+}
+.web-toplines{
+    height: 100px;
+    width: 100%;
+}
+/*上方為網頁上方css*/
+.questionbank1box{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1block{
+    text-decoration: none;
+    color: black;
+}
+.questionbank1{
+    box-shadow:none;
+    width: 1280px;
+    display: flex;
+}
+.questionbank1img{
+    width: 15%;
+}
+.questionbank1img img{
+    width: 150px;
+    height: auto;
+}
+.questionbank1space{
+    width: 10%;
+}
+.questionbank1text{
+    width: auto;
+}
+.questionbank1text p{
+    font-weight: bold;
+}
+.questionbank2box{
+    display: flex;
+    justify-content: center;
+}
+.questionbank2block{
+    text-decoration: none;
+    color: black;
+}
+.questionbank2{
+    width: 1280px;
+    display: flex;
+}
+.questionbank2img{
+    width: 15%;
+}
+.questionbank2img img{
+    width: 150px;
+    height: auto;
+}
+.questionbank2space{
+    width: 10%;
+}
+.questionbank2text{
+    width: auto;
+}
+.questionbank2text p{
+    font-weight: bold;
+}
+/*上方為網頁內容css*/
+.web-bottom{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/

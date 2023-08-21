@@ -1,0 +1,72 @@
+
+.questionbank1box{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1block{
+    text-decoration: none;
+    color: black;
+}
+.questionbank1{
+    box-shadow:none;
+    width: 1280px;
+    display: flex;
+}
+.questionbank1img{
+    width: 15%;
+}
+.questionbank1img img{
+    width: 100px;
+    height: auto;
+}
+.questionbank1space{
+    width: 10%;
+}
+.questionbank1text{
+    width: auto;
+}
+.questionbank1text p{
+    font-weight: bold;
+}
+.questionbank2box{
+    display: flex;
+    justify-content: center;
+}
+.questionbank2block{
+    text-decoration: none;
+    color: black;
+}
+.questionbank2{
+    width: 1280px;
+    display: flex;
+}
+.questionbank2img{
+    width: 15%;
+}
+.questionbank2img img{
+    width: 150px;
+    height: auto;
+}
+.questionbank2space{
+    width: 10%;
+}
+.questionbank2text{
+    width: auto;
+}
+.questionbank2text p{
+    font-weight: bold;
+}
+/*body*/
+.web-bottom{
+    margin-top: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/

@@ -1,0 +1,87 @@
+
+.web-bodytotal{
+}
+.web-body1{
+    display: flex;
+    justify-content: center;
+    width: 1280px;
+}
+.web-body1total{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+.web-body1text{
+    width: 45%;
+}
+.web-body1text ul li{
+    font-weight: bold;
+    font-size: 18px;
+}
+.web-body1space{
+    width: 10%;
+}
+.web-body1video{
+    margin: 10px;
+    width: 45%;
+}
+.web-body2total{
+    display: flex;
+    justify-content: center;
+}
+.web-body2{
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+}
+.web-body2video{
+    margin: 10px;
+    width: 45%;
+}
+.web-body2space{
+    width: 10%;
+}
+.web-body2text{
+    width: 45%;
+}
+.web-body2text ul li{
+    font-weight: bold;
+    font-size: 18px;
+}
+.web-body3{
+    display: flex;
+    justify-content: center;
+    width: 1280px;
+}
+.web-body3total{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.web-body3text{
+    width: 45%;
+}
+.web-body3text ul li{
+    font-weight: bold;
+    font-size: 18px;
+}
+.web-body3space{
+    width: 10%;
+}
+.web-body3video{
+    margin: 10px;
+    width: 45%;
+}
+/*上方為網頁body-css*/
+.web-bottom{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/

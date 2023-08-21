@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="css/questionbank.css"/>
+    <link rel="icon" href="image/iconimg.ico"/>
+    <title>熊熊幫 - 楓之谷私服攻略網</title>
+</head>
+<body>
+    <script>
+        function chooseover(pqover){
+            pqover.style.color = "white";
+            pqover.style.cursor = "pointer";
+        }
+        function chooseout(pqout){
+            pqout.style.color = "black";
+        }
+        function partyquestclick(){
+            window.location = "file:///D:/MapleStoryWeb-by/partyquest.html";
+        }
+        function v113raidersclick(){
+            window.location = "file:///D:/MapleStoryWeb-by/v113raiders.html"
+        }
+        function COMraidersclick(){
+            window.location = "file:///D:/MapleStoryWeb-by/COMraiders.html"
+        }
+        function questionbankclick(){
+            window.location = "file:///D:/MapleStoryWeb-by/questionbank.html"
+        }
+        function shadow(sh){
+            sh.style.boxShadow = "5px 5px 5px 0px rgba(0,0,0,0.4)";
+        }
+        function shadowout(shout){
+            shout.style.boxShadow = "none";
+        }
+    </script>
+    <div class="bgcolor">
+        <div class="web-toptotal">
+            <div class="web-top1box">
+                <div class="web-top1">
+                    <div class="web-top1menu">
+                        <div class="web-mark">
+                            <div class="web-markimg">
+                                <a href="index.html"><img src="image/web-mark.jpg"/></a>
+                            </div>
+                        </div>
+                        <div class="menu-space"> <!--區隔-->
+
+                        </div>
+                        <div class="menu-choose">
+                            <div class="menu-choose1">
+                                <div onclick="partyquestclick();" onmouseover="chooseover(this);" onmouseout="chooseout(this);">組隊任務區</div>
+                            </div>
+                            <div class="menu-choose1">
+                                <div onclick="v113raidersclick();" onmouseover="chooseover(this);" onmouseout="chooseout(this);">v113功略區</div>
+                            </div>
+                            <div class="menu-choose1">
+                                <div onclick="COMraidersclick();" onmouseover="chooseover(this);" onmouseout="chooseout(this);">通用攻略區</div>
+                            </div>
+                            <div class="menu-choose1">
+                                <div onclick="questionbankclick();" onmouseover="chooseover(this);" onmouseout="chooseout(this);">題庫區</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="web-topline">
+                <img class="web-toplines" src="image/web-topline.png"/>
+            </div>
+        </div>
+        <div class="web-bodytotal"><!--網頁內容-->
+            <div class="questionbank1box">
+                <a class="questionbank1block" href="questionbank1content.html">
+                    <div onmouseover="shadow(this);" onmouseout="shadowout(this);" class="questionbank1">
+                        <div class="questionbank1img">
+                            <img src="image/questionNPC1.png"/>
+                        </div>
+                        <div class="questionbank1space">
+
+                        </div>
+                        <div class="questionbank1text">
+                            <h2>來人餵波斯貓吃炸雞</h2>
+                            <p>
+                                等級限制：40等以上<br/><br/>
+                                任務NPC所在地：日本神社 - 昭和村<br/><br/>
+                                任務名稱：美代子，貓和雨珠子<br/><br/>
+                                任務獎勵：頭盔生命詛咒捲軸30% <img src="image/reel-30.png"/>/ 鞋子跳躍詛咒卷軸30% <img src="image/reel-30.png"/>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="questionbank2box">
+                <a class="questionbank2block" href="questionbank2choose.html">
+                    <div onmouseover="shadow(this);" onmouseout="shadowout(this);" class="questionbank2">
+                        <div class="questionbank2img">
+                            <img src="image/questionNPC2.png"/>
+                        </div>
+                        <div class="questionbank2space">
+
+                        </div>
+                        <div class="questionbank2text">
+                            <h2>冒險家三轉 - 轉職任務流程</h2>
+                            <p>
+                                等級限制：70等以上<br/><br/>
+                                轉職條件：已完成冒險家二轉<br/><br/>
+                                轉職所需材料：黑暗水晶*1<img src="image/dark-crystal.png"/>力量項鍊*1<img src="image/power-necklace.png"/>黑符*1<img src="image/blackspell.png"/>智慧項鍊*1<img src="image/wisdom-necklace.png"/><br/><br/>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="web-bottom"><!--網頁底層-->
+            <div class="web-bottomtext">
+                ©熊熊幫 - 世界最腦殘的楓之谷私服群
+            </div>
+        </div>  
+    </div>  
+</body>

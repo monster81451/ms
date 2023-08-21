@@ -1,0 +1,103 @@
+body{
+    background-image: url("../image/snow1.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:left top;
+    background-size:cover;
+    margin: 0;
+}
+.bgcolor{
+    background-color: rgba(255,255,255,0.3);
+}
+.web-top1menu{
+    width: 1280px;
+    display: flex;
+    align-items: center;
+}
+.web-top2menu{
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+}
+.menu-choose{
+    display: flex;
+    width: 40%;
+    height: 100px;
+    justify-content: end;
+}
+.menu-choose1{
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.menu-choose1 a{
+    color: black;
+    text-decoration: none;
+}
+.menu-choose1 a:hover{
+    color: azure;
+}
+.web-markimg{ /*長方形圖片轉圓形*/
+    /*display:inline-block;
+    position:relative;*/
+    width:70px;
+    height:70px;
+    /*overflow:hidden;
+    border-radius:50%;*/
+}
+.web-markimg img{ /*長方形圖片轉圓形*/
+    width:auto;
+    height:100%;
+}
+.web-mark{
+    width: 30%;
+}
+.menu-space{
+    width: 30%;
+}
+.web-top1{
+    background:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.0));
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    left: 0;
+    right: 0;
+}
+.web-top1box{
+    height: 75px;
+}
+.web-top2{
+    display: flex;
+    justify-content: center;
+}
+.web-top2text{
+    width: 40%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.web-top2space{
+    width: 20%;
+}
+.web-top2img{
+    display:block;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit: cover;
+    overflow: hidden;
+    text-align: center;
+}
+.web-top2imgs{
+    width:90%;
+    height:auto;
+}
+.web-toptotal{
+    
+}
+.web-toplines{
+    height: 100px;
+    width: 100%;
+}
+/*以上為web-top-css*/

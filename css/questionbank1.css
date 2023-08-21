@@ -1,0 +1,186 @@
+
+.web-bodytotal{
+    font-weight: bold;
+}
+/*start*/
+.questionbank1starttotal{
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*step1*/
+.questionbank1step1total{
+    margin: 20px;
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*step2*/
+.questionbank1step2total{
+    margin: 20px;
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*step3*/
+.questionbank1step3total{
+    margin: 20px;
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*step4*/
+.questionbank1step4total{
+    margin: 20px;
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*step5*/
+.questionbank1step5total{
+    margin: 20px;
+}
+.questionbank1starttitle{
+    width:1280px;
+}
+.questionbank1startbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1start{
+    width: 1280px;
+    display: flex;
+}
+.questionbank1startnpc{
+    width: 20%;
+}
+.questionbank1startcon{
+    width: 40%;
+}
+.questionbank1startth{
+    width: 20%;
+}
+.questionbank1startaw{
+    width: auto;
+}
+/*bank*/
+.questionbank1bankbox{
+    display: flex;
+    justify-content: center;
+}
+.questionbank1bank{
+    width: 1280px;
+}
+/*上方為網頁內容css*/
+.web-bottom{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/

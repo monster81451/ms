@@ -1,0 +1,130 @@
+
+.web-bodytotal{
+}
+.magbox{
+    display: flex;
+    justify-content: center;
+}
+.magtitle{
+    width: 1280px;
+    font-size: 30px;
+    color: red;
+}
+.f{
+    background-color: rgba(255,255,255,0.5);
+    height: 90%;
+}
+.le{
+    color: black;
+}
+.magstep1box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.magstep1{
+    width: 1280px;
+    font-weight: bold;
+    display: flex;
+}
+.magstep1text{
+    width: 40%;
+}
+.magstep1space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.magstep1space img{
+    width: 50px;
+}
+.magstep1img{
+    width: auto;
+}
+/**/
+.magstep2box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.magstep2{
+    width: 1280px;
+    font-weight: bold;
+    display: flex;
+}
+.magstep2text{
+    width: 40%;
+}
+.magstep2space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.magstep2space img{
+    width: 50px;
+}
+.magstep2img{
+    width: auto;
+}
+/**/
+.magstep3box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.magstep3{
+    width: 1280px;
+    font-weight: bold;
+    display: flex;
+}
+.magstep3text{
+    width: 40%;
+}
+.magstep3space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.magstep3space img{
+    width: 50px;
+}
+.magstep3img{
+    width: auto;
+}
+/**/
+.bank3box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.bank3{
+    width: 1280px;
+    font-weight: bold;
+    display: flex;
+}
+.bank3text{
+}
+.bank3text img{
+    width: 30px;
+}
+/**/
+.web-bottom{
+    margin-top: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/

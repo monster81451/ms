@@ -1,0 +1,127 @@
+
+.web-bodytotal img{
+    width: 280px;
+    height: auto;
+}
+.web-bodytotal p{
+    font-weight: bold;
+}
+.guildbox{
+    display: flex;
+    justify-content: center;
+}
+.guildblock{
+    text-decoration: none;
+    color: black;
+}
+.guild{
+    width: 1280px;
+    display: flex;
+}
+.guildimg{
+    width: 15%;
+}
+.guildspace{
+    width: 15%;
+}
+.guildtext{
+    width: auto;
+}
+.LPQbox{
+    display: flex;
+    justify-content: center;
+}
+.LPQblock{
+    text-decoration: none;
+    color: black;
+}
+.LPQ{
+    width: 1280px;
+    display: flex;
+}
+.LPQimg{
+    width: 15%;
+}
+.LPQspace{
+    width: 15%;
+}
+.LPQtext{
+    width: auto;
+}
+.OPQbox{
+    display: flex;
+    justify-content: center;
+}
+.OPQblock{
+    text-decoration: none;
+    color: black;
+}
+.OPQ{
+    width: 1280px;
+    display: flex;
+}
+.OPQimg{
+    width: 15%;
+}
+.OPQspace{
+    width: 15%;
+}
+.OPQtext{
+    width: auto;
+}
+.LGPQbox{
+    display: flex;
+    justify-content: center;
+}
+.LGPQblock{
+    text-decoration: none;
+    color: black;
+}
+.LGPQ{
+    width: 1280px;
+    display: flex;
+}
+.LGPQimg{
+    width: 15%;
+}
+.LGPQspace{
+    width: 15%;
+}
+.LGPQtext{
+    width: auto;
+}
+.ZKPQbox{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.ZKPQblock{
+    text-decoration: none;
+    color: black;
+}
+.ZKPQ{
+    width: 1280px;
+    display: flex;
+}
+.ZKPQimg{
+    width: 15%;
+}
+.ZKPQspace{
+    width: 15%;
+}
+.ZKPQtext{
+    width: auto;
+}
+/*上方為網頁內容css*/
+.web-bottom{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.web-bottomtext{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/*上方為網頁底部css*/
